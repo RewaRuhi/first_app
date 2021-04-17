@@ -1,0 +1,58 @@
+body {
+    height: 100%;
+    background: linear-gradient(90deg, #5c0bf1,#e70d0d);
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 40px;
+}
+.container {
+    text-align: center;
+    margin: 23px;
+
+}
+table {
+    margin: auto;
+   
+    
+}
+.button{
+    width: 90;
+    height:50;
+    font-size:40px;
+    width: 100px;
+    height: 58px;
+    background-color:cadetblue;
+    margin: 6px;
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 32px;
+    
+    text-align: center;
+
+   
+}
+.textview{
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+    text-align: left;
+}
+.screen{
+    height: 80px; width: 500px;"
+    border: 20px solid #73ad27;
+    border-radius: 25px;
+    font-size: 34px;
+   text-align:right;
+
+   
+
+
+    
+}
+
+
+
+
